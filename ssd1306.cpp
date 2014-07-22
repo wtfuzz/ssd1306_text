@@ -1,3 +1,9 @@
+/**
+ * @file ssd1306.cpp
+ * @brief Simple text mode OLED display driver
+ * @author Matt Thompson <mthompson@hexwave.com>
+ */
+
 #include <inttypes.h>
 #include <lcd.h>
 #include <lcd_ssd1306.h>
