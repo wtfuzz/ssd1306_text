@@ -5,8 +5,7 @@
  */
 
 #include <inttypes.h>
-#include <lcd.h>
-#include <lcd_ssd1306.h>
+#include "ssd1306.h"
 
 #include <spark_wiring.h>
 #include <spark_wiring_spi.h>
