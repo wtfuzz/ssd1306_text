@@ -1,6 +1,8 @@
 #ifndef SPARK_LCD_H_
 #define SPARK_LCD_H_
 
+#include <inttypes.h>
+
 typedef struct _lcd_t
 {
   /** Pins */
