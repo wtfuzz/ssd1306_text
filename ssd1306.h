@@ -4,11 +4,6 @@
 #include <lcd_font.h>
 #include <lcd_ssd1306.h>
 
-typedef enum _lcd_type_t
-{
-  LCD_TYPE_SSD1306,
-} lcd_type_t;
-
 typedef struct _lcd_t
 {
   /** Pins */
